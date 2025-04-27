@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate .Net Full Stack developer from Egypt</h3>
 
+🛠 About Me
+I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
 
+🔹 ITI 9-Month Graduate
+🔹 Experience with SQL Server, MySQL, and Oracle
+🔹 Strong knowledge of API Development & Web Applications
+🔹 Passionate about clean code, performance optimization, and problem-solving
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah-fy](https://github.com/Abdullah-fy)
 
