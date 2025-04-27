@@ -3,11 +3,11 @@
 
 <h3>🛠 About Me</h3>
 I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
-
-🔹 ITI 9-Month Graduate
-🔹 Experience with SQL Server, MySQL, and Oracle
-🔹 Strong knowledge of API Development & Web Applications
-🔹 Passionate about clean code, performance optimization, and problem-solving
+<br>
+🔹 ITI 9-Month Graduate<br>
+🔹 Experience with SQL Server, MySQL, and Oracle<br>
+🔹 Strong knowledge of API Development & Web Applications<br>
+🔹 Passionate about clean code, performance optimization, and problem-solving<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah-fy](https://github.com/Abdullah-fy)
 
