@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 🔹 Passionate about clean code, performance optimization, and problem-solving<br>
 
 <hr>
-- 👨‍💻 All of my projects are available at [https://github.com/Abdullah-fy](https://github.com/Abdullah-fy)
+- 👨‍💻 All of my projects are available at https://github.com/Abdullah-fy
 
 - 📫 How to reach me **abdullahfathy2023@gmail.com**
 <br>
