@@ -13,7 +13,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate .Net Full Stack developer from Egypt</h3> -->
 
-<h3>🛠 About Me</h3>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <hr/>
 I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
 <br>
