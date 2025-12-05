@@ -150,7 +150,7 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-
+</p>
 <!-- </div> -->
   
   <!-- Most Used Languages -->
