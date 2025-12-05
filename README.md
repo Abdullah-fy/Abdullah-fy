@@ -23,7 +23,7 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 🔹 Passionate about clean code, performance optimization, and problem-solving<br>
 
 <hr>
-- 👨‍💻 All of my projects are available at https://github.com/Abdullah-fy
+<!-- - 👨‍💻 All of my projects are available at https://github.com/Abdullah-fy
 
 - 📫 How to reach me **abdullahfathy2023@gmail.com**
 <br>
@@ -36,8 +36,32 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdullah_fathy)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@abdullahfathy201)
 
-</div>
+</div> -->
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdullahfathy2023/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Abdullah-fy">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<!-- <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
+      </div>
+
+</p>
 ## 🛠️ Tech Stack
 
 <div align="center">
