@@ -173,7 +173,7 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
   
   <!-- GitHub Stats -->
 <!---  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-fy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  -->>
+  -->
   <br/><!--<br/>-->
   
   <!-- Streak Stats -->
