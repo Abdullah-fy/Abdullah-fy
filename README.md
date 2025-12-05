@@ -91,22 +91,23 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 
 <!-- <div align="center"> -->
 <p align="center">
+## 🔹 Languages  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- **Languages**:
-   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-<br>   
-### Backend
+## 🔹 Backend  
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-<br>
-### Frontend
+---
+
+## 🔹 Frontend  
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -114,37 +115,46 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-%23000000.svg?style=for-the-badge&logoColor=white)
 
-<br>
-## Backend APIs & Architecture
+---
+
+## 🔹 Backend APIs & Architecture  
 ![REST API](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-%23000000.svg?style=for-the-badge)
 ![Unit Of Work](https://img.shields.io/badge/Unit%20Of%20Work-%23000000.svg?style=for-the-badge)
-<br>
-### Databases
+
+---
+
+## 🔹 Databases  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-%23007396.svg?style=for-the-badge&logoColor=white)
-<br>
-### DevOps & Tools
+
+---
+
+## 🔹 DevOps & Tools  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%230075C0.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
-## Software Engineering
+
+---
+
+## 🔹 Software Engineering  
 ![OOP](https://img.shields.io/badge/OOP-%23004880.svg?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-%23000000.svg?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23003B57.svg?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-%2300A98F.svg?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23007ACC.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Code Reviews](https://img.shields.io/badge/Code%20Reviews-%23000000.svg?style=for-the-badge)
-<br>
-##Tools & Others
+
+---
+
+## 🔹 Tools & Others  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
