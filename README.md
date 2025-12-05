@@ -169,12 +169,12 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fy&layout=compact&theme=radical" alt="Top Languages" />
 -->
   
-  <br/><br/>
+  <!--<br/><br/>-->
   
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-fy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/><br/>
+<!---  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-fy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  -->>
+  <br/><!--<br/>-->
   
   <!-- Streak Stats -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-fy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
