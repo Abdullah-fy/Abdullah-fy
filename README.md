@@ -10,8 +10,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate .Net Full Stack developer from Egypt</h3>
+<!-- <h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h3 align="center">A passionate .Net Full Stack developer from Egypt</h3> -->
 
 <h3>🛠 About Me</h3>
 I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
