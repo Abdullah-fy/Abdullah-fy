@@ -164,7 +164,8 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 <!-- </div> -->
   
   <!-- Most Used Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fy&layout=compact&theme=radical" alt="Top Languages" />
+
   
   <br/><br/>
   
